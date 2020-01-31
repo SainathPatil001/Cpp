@@ -20,6 +20,5 @@ int main()
     construct c;
     cout << "a: " << c.a << endl;
         cout << "b: " << c.b;
-~ contruct;
     return 1;
 }
